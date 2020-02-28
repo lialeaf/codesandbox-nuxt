@@ -4,6 +4,7 @@
       <Logo :width="350"/>
       <h1 class="title">NUXT<span class="green">JS</span></h1>
       <h2 class="subtitle">Starter for CodeSandBox</h2>
+      <h2 class="subtitle">From git codesandbox-nuxt</h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation <IconLink/></a>
         <NLink to="/about" class="button--grey">About</NLink>
